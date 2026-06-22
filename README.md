@@ -1,4 +1,4 @@
-# pshell / C++ HTTP Server
+# HTTP Server
 
 A lightweight HTTP/1.1 server written in modern C++ from scratch, built to learn systems programming, networking fundamentals, and backend architecture design.
 
