@@ -33,6 +33,11 @@ endif()
 set(SOURCES
     src/main.cpp
     src/server.cpp
+    src/router.cpp
+    src/response.cpp
+    src/request.cpp
+    src/file_server.cpp
+    src/logger.cpp
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})
