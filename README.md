@@ -6,11 +6,11 @@ This project implements a basic web server capable of handling HTTP requests, ro
 
 ## Screenshots
 
-![Server Running](screenshots/server.png)
+![Server Running](assets/server.png)
 
-![Browser Request](screenshots/browser.png)
+![Browser Request](assets/browser.png)
 
-![Curl Response](screenshots/curl.png)
+![Curl Response](assets/curl.png)
 
 ## Features
 
